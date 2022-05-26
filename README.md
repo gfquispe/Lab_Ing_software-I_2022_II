@@ -9,4 +9,5 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Second student</li>
   <li>Third student</li>
   <li>Fourth student</li>
+  <li>Gallegos Quiñones, Fredy Julmer 120886 Lab A</li>
 </ol>
