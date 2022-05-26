@@ -9,5 +9,7 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Third student</li>
   <li>Jafet Caleb Rojas Garay 170440 Lab A</li>
   <li>Calderón Tintaya Fallcha Xiomara 171057 Lab A</li>
+  <li>Covarrubias Aguilar Geremy Andre 170430 Lab A</li>
+  <li>Huaman Torres Alvaro Ricardo 170435 Lab A</li>
   <li>hancco chaco jose maria 150372 Lab A</li>
 </ol>
