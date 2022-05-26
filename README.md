@@ -6,7 +6,7 @@ Please `Fork` the project, then create your branch and add your name (in the cor
 
 <ol>
   <li>Quispe Torres Gerar Francis 090227 Lab A</li>
-  <li>Second student</li>
+  <li>Carrasco Cunza Daniel Alexander 111175 Lab A</li>
   <li>Third student</li>
   <li>Fourth student</li>
 </ol>
