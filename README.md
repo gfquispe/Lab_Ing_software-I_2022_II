@@ -13,4 +13,5 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Huaman Torres Alvaro Ricardo 170435 Lab A</li>
   <li>hancco chaco jose maria 150372 Lab A</li>
   <li>Guerra Bellido Jhon 171910 Lab A</li>
+  <li>Corazao Hinojosa Reison Dario 163839 Lab A</li>
 </ol>
