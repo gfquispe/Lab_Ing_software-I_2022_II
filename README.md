@@ -6,6 +6,6 @@ Please `Fork` the project, then create your branch and add your name (in the cor
 * be carefull to not cause conflict in the proccess of pull request
 <ol>
   <li>Luis David Tello Justiniani</li>
-  <li>second student</li>
+  <li>Justino Ferro Alvarez</li>
   <li>third student</li>
 </ol>
