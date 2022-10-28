@@ -2,10 +2,12 @@
 This is the repository created to the course of Ing. de software-II 2022-II, the part of Laboratory.
 
 
-Please `Fork` the project, then create your branch and add your name (in the correct format) to the list and perform a `pull request`.
-
+Please `Fork` the project, then create your branch and add your name (in the correct format: name and student code) to the list and perform a `pull request`.
+* be carefull to not cause conflict in the proccess of pull request
 <ol>
-  <li>Maria del Pilar</li>
-  <li>Gerar Quispe T</li>
+  <li>Luis David Tello Justiniani</li>
+  <li>Carla Paloma Cueto Sanchez 120008</li>
+  <li>Justino Ferro Alvarez</li>
+  <li>Marjorie Rebecca Rodriguez Casas 184653</li>
   <li>fryzito</li>
 </ol>
