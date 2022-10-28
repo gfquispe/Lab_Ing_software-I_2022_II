@@ -14,4 +14,5 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Alvaro Sebastian Mollinedo Peña 182921</li>
   <li>Leonardo Chepper Pumacahua Apaza 171524</li>
   <li>Axel Stewarf Saire Salazar </li>
+  <li>Luis Mao Valencia Cusipuma 184212</li>
 </ol>
