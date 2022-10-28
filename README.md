@@ -9,5 +9,6 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Carla Paloma Cueto Sanchez 120008</li>
   <li>Justino Ferro Alvarez</li>
   <li>Marjorie Rebecca Rodriguez Casas 184653</li>
+  <li>Ronald Huahuatico Soria 154856</li>
   <li>Jhon Jaime Tincusi Ccorimanya 184211</li>
 </ol>
