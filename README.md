@@ -11,4 +11,5 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Marjorie Rebecca Rodriguez Casas 184653</li>
   <li>Ronald Huahuatico Soria 154856</li>
   <li>Jhon Jaime Tincusi Ccorimanya 184211</li>
+  <li>Alvaro Sebastian Mollinedo Peña 182921</li>
 </ol>
