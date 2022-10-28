@@ -8,4 +8,5 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Luis David Tello Justiniani</li>
   <li>Carla Paloma Cueto Sanchez 120008</li>
   <li>Justino Ferro Alvarez</li>
+  <li>Leonardo Chepper Pumacahua Apaza 171524</li>
 </ol>
