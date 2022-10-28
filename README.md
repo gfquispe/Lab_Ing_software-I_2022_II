@@ -13,4 +13,5 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Jhon Jaime Tincusi Ccorimanya 184211</li>
   <li>Alvaro Sebastian Mollinedo Peña 182921</li>
   <li>Leonardo Chepper Pumacahua Apaza 171524</li>
+  <li>Axel Stewarf Saire Salazar </li>
 </ol>
