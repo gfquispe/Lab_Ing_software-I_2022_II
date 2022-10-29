@@ -16,4 +16,5 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Axel Stewarf Saire Salazar </li>
   <li>Luis Mao Valencia Cusipuma 184212</li>
   <li>Lady Diana Quinto Catachura 171066</li>
+  <li>Andía Jaén Andrés Rodrigo 182894</li>
 </ol>
